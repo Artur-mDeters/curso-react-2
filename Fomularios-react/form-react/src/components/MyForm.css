@@ -1,0 +1,12 @@
+form {
+    width: 500px;
+    text-align: left;
+    margin: 0 auto;
+}
+
+input,
+textarea,
+seletc {
+    display: block;
+    margin-top: 10px;
+}
